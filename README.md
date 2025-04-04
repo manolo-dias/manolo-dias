@@ -1,7 +1,6 @@
 # 👨‍💻 Manolo Dias
 
 **Engenheiro de Software Pleno | Especialista em IA, Segurança da Informação e DevOps**  
-**Atualmente no time do [Grupo Blend](https://blenddev.com.br/)**
 
 ---
 
@@ -44,9 +43,9 @@ Além da minha atuação técnica, também sou **escritor e redator**, com exper
 
 ## 📬 Contato
 
-- 📧 Email: [manolo@blenddev.com.br](mailto:manolo@blenddev.com.br)  
+
 - 💬 WhatsApp: [Clique aqui para conversar](https://wa.me/5521968899448)  
-- 🌐 Site da Blend: [blenddev.com.br](https://blenddev.com.br)
+
 
 ---
 
