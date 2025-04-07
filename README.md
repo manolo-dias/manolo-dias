@@ -19,7 +19,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, TypeScript, Python, Go, C#, Bash
+- **Linguagens:** JavaScript, TypeScript, Python, Go, C#, Bash, Java
 - **Frameworks:** Node.js, React, Next.js, Express, Django, Flask
 - **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD pipelines
 - **Cloud:** AWS, Azure, GCP
