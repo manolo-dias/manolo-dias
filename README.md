@@ -4,7 +4,7 @@
 
 ---
 
-💼 Com mais de **5 anos de experiência profissional**, sou engenheiro de software formado, e atuo como desenvolvedor **fullstack**, com forte foco em **arquitetura de sistemas**, **infraestrutura cloud-native**, **engenharia de IA** e **segurança cibernética**.
+Engenheiro de software, atuo como desenvolvedor **fullstack**, com forte foco em **arquitetura de sistemas**, **infraestrutura cloud-native**, **engenharia de IA** e **segurança cibernética**.
 
 ---
 
